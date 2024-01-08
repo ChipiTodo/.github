@@ -1,12 +1,15 @@
-## Hi there 👋
+## 목표
+### 설계 목표
+- 일정을 공유, 관리할 수 있는 어플 개발
+- 특정 유저끼리 Github Backlog 처럼 볼 수 있다(Backlog + 일정이 추가된 기능)
+- 슬랙을 통한 알람 관리
 
-<!--
+### Frontend 목표
 
-**Here are some ideas to get you started:**
+### Backend 목표
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 사용 기술 스택
+
+BE: Typescript, NestJS, PostgreSQL, TypeORM, Jest
+
+## Userflow
