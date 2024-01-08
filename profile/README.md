@@ -7,9 +7,16 @@
 ### Frontend 목표
 
 ### Backend 목표
+- Jest를 통한 TDD 주도 개발 진행
+- OOP 지향적 코드 작성
+- 추후 어디선가 재활용 할 수 있을만한 코드를 만드는 것이 목표
 
 ## 사용 기술 스택
-
+FE: 
 BE: Typescript, NestJS, PostgreSQL, TypeORM, Jest
 
 ## Userflow
+![Userflow](./userflow.png)
+
+## ERD
+![ERD](./ERD.png)
