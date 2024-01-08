@@ -16,7 +16,7 @@ FE:
 BE: Typescript, NestJS, PostgreSQL, TypeORM, Jest
 
 ## Userflow
-![Userflow](./userflow.png)
+![Userflow](https://github.com/ChipiTodo/.github/blob/main/profile/userflow.png)
 
 ## ERD
-![ERD](./ERD.png)
+![ERD](https://github.com/ChipiTodo/.github/blob/main/profile/ERD.png)
